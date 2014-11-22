@@ -1,0 +1,1 @@
+[20-Oct-2014 22:57:49 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/theclare/public_html/encoder/video_upload.php:19) in /home/theclare/public_html/encoder/video_upload.php on line 39
